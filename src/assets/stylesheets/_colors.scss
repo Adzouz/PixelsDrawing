@@ -1,0 +1,290 @@
+.list-colors {
+  input[value="turquoise"] + span {
+    background: $turquoise;
+  }
+  input[value="green-sea"] + span {
+    background: $greenSea;
+  }
+  input[value="emerald"] + span {
+    background: $emerald;
+  }
+  input[value="nephritis"] + span {
+    background: $nephritis;
+  }
+  input[value="peter-river"] + span {
+    background: $peterRiver;
+  }
+  input[value="belize-hole"] + span {
+    background: $belizeHole;
+  }
+  input[value="amethyst"] + span {
+    background: $amethyst;
+  }
+  input[value="wisteria"] + span {
+    background: $wisteria;
+  }
+  input[value="wet-asphalt"] + span {
+    background: $wetAsphalt;
+  }
+  input[value="midnight-blue"] + span {
+    background: $midnightBlue;
+  }
+  input[value="sun-flower"] + span {
+    background: $sunFlower;
+  }
+  input[value="orange"] + span {
+    background: $orange;
+  }
+  input[value="carrot"] + span {
+    background: $carrot;
+  }
+  input[value="pumpkin"] + span {
+    background: $pumpkin;
+  }
+  input[value="alizarin"] + span {
+    background: $alizarin;
+  }
+  input[value="pomegranate"] + span {
+    background: $pomegranate;
+  }
+  input[value="silver"] + span {
+    background: $silver;
+  }
+  input[value="concrete"] + span {
+    background: $concrete;
+  }
+  input[value="asbestos"] + span {
+    background: $asbestos;
+  }
+}
+
+.drawing-canvas {
+  &[data-hover="turquoise"] {
+    ul li {
+      &:hover {
+        background: $turquoise;
+      }
+    }
+  }
+  ul li {
+    &[data-color="turquoise"] {
+      background: $turquoise;
+    }
+  }
+  &[data-hover="green-sea"] {
+    ul li {
+      &:hover {
+        background: $greenSea;
+      }
+    }
+  }
+  ul li {
+    &[data-color="green-sea"] {
+      background: $greenSea;
+    }
+  }
+  &[data-hover="emerald"] {
+    ul li {
+      &:hover {
+        background: $emerald;
+      }
+    }
+  }
+  ul li {
+    &[data-color="emerald"] {
+      background: $emerald;
+    }
+  }
+  &[data-hover="nephritis"] {
+    ul li {
+      &:hover {
+        background: $nephritis;
+      }
+    }
+  }
+  ul li {
+    &[data-color="nephritis"] {
+      background: $nephritis;
+    }
+  }
+  &[data-hover="peter-river"] {
+    ul li {
+      &:hover {
+        background: $peterRiver;
+      }
+    }
+  }
+  ul li {
+    &[data-color="peter-river"] {
+      background: $peterRiver;
+    }
+  }
+  &[data-hover="belize-hole"] {
+    ul li {
+      &:hover {
+        background: $belizeHole;
+      }
+    }
+  }
+  ul li {
+    &[data-color="belize-hole"] {
+      background: $belizeHole;
+    }
+  }
+  &[data-hover="amethyst"] {
+    ul li {
+      &:hover {
+        background: $amethyst;
+      }
+    }
+  }
+  ul li {
+    &[data-color="amethyst"] {
+      background: $amethyst;
+    }
+  }
+  &[data-hover="wisteria"] {
+    ul li {
+      &:hover {
+        background: $wisteria;
+      }
+    }
+  }
+  ul li {
+    &[data-color="wisteria"] {
+      background: $wisteria;
+    }
+  }
+  &[data-hover="wet-asphalt"] {
+    ul li {
+      &:hover {
+        background: $wetAsphalt;
+      }
+    }
+  }
+  ul li {
+    &[data-color="wet-asphalt"] {
+      background: $wetAsphalt;
+    }
+  }
+  &[data-hover="midnight-blue"] {
+    ul li {
+      &:hover {
+        background: $midnightBlue;
+      }
+    }
+  }
+  ul li {
+    &[data-color="midnight-blue"] {
+      background: $midnightBlue;
+    }
+  }
+  &[data-hover="sun-flower"] {
+    ul li {
+      &:hover {
+        background: $sunFlower;
+      }
+    }
+  }
+  ul li {
+    &[data-color="sun-flower"] {
+      background: $sunFlower;
+    }
+  }
+  &[data-hover="orange"] {
+    ul li {
+      &:hover {
+        background: $orange;
+      }
+    }
+  }
+  ul li {
+    &[data-color="orange"] {
+      background: $orange;
+    }
+  }
+  &[data-hover="carrot"] {
+    ul li {
+      &:hover {
+        background: $carrot;
+      }
+    }
+  }
+  ul li {
+    &[data-color="carrot"] {
+      background: $carrot;
+    }
+  }
+  &[data-hover="pumpkin"] {
+    ul li {
+      &:hover {
+        background: $pumpkin;
+      }
+    }
+  }
+  ul li {
+    &[data-color="pumpkin"] {
+      background: $pumpkin;
+    }
+  }
+  &[data-hover="alizarin"] {
+    ul li {
+      &:hover {
+        background: $alizarin;
+      }
+    }
+  }
+  ul li {
+    &[data-color="alizarin"] {
+      background: $alizarin;
+    }
+  }
+  &[data-hover="pomegranate"] {
+    ul li {
+      &:hover {
+        background: $pomegranate;
+      }
+    }
+  }
+  ul li {
+    &[data-color="pomegranate"] {
+      background: $pomegranate;
+    }
+  }
+  &[data-hover="silver"] {
+    ul li {
+      &:hover {
+        background: $silver;
+      }
+    }
+  }
+  ul li {
+    &[data-color="silver"] {
+      background: $silver;
+    }
+  }
+  &[data-hover="concrete"] {
+    ul li {
+      &:hover {
+        background: $concrete;
+      }
+    }
+  }
+  ul li {
+    &[data-color="concrete"] {
+      background: $concrete;
+    }
+  }
+  &[data-hover="asbestos"] {
+    ul li {
+      &:hover {
+        background: $asbestos;
+      }
+    }
+  }
+  ul li {
+    &[data-color="asbestos"] {
+      background: $asbestos;
+    }
+  }
+}

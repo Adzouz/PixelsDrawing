@@ -1,4 +1,8 @@
-# pixels_drawing
+# PixelsDrawing
+
+Little funny side-project based on Vue.js. With that web app, you can draw in a pixels matrix.
+
+Live demo : http://pixelsdrawing.evileye.fr
 
 ## Project setup
 ```
@@ -27,3 +31,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![Preview of the app](https://raw.githubusercontent.com/TheWebsDoor/PixelsDrawing/master/preview.png)
