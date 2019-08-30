@@ -1,9 +1,12 @@
-# PixelsDrawing
+# 👾 PixelsDrawing
 
-Little funny side-project based on Vue.js. With that web app, you can draw in a pixels matrix and save your drawings.
-That's it :)
+With that web app, you can draw in a pixels matrix and save your drawings.
+Made with Vue.js.
 
-Live demo : https://pixelsdrawing.alaqasar.com
+- [x] 📱 Installable as an app
+- [x] ✈️ Offline support
+
+Live demo : https://thewebsdoor.github.io/PixelsDrawing/
 
 ## Project setup
 ```
