@@ -7,8 +7,8 @@
     </div>
     <Home/>
     <div class="footer">
-      <div><a href="https://thewebsdoor.com" target="_blank">The Web's Door</a></div>
-      <div><a href="https://github.com/TheWebsDoor/PixelsDrawing" target="_blank"><i class="fa fa-github"></i> Github</a></div>
+      <div><a href="https://thewebsdoor.com" target="_blank" rel="noopener">The Web's Door</a></div>
+      <div><a href="https://github.com/TheWebsDoor/PixelsDrawing" target="_blank" rel="noopener"><i class="fa fa-github"></i> Github</a></div>
     </div>
   </div>
 </template>
