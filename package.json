@@ -24,7 +24,7 @@
     "lodash.template": "^4.5.0",
     "node-sass": "^4.14.1",
     "sass-loader": "^7.1.0",
-    "tar": "^4.4.15",
+    "tar": "^4.4.18",
     "vue-cookie": "^1.1.4",
     "vue-i18n": "^8.11.2",
     "vue-template-compiler": "^2.6.10"
